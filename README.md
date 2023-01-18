@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3PTNHhuwbEk12/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3PTNHhuwbEk12/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/viktor-ogrenich-9b7b0b7a/">
